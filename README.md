@@ -17,3 +17,29 @@ Acquire dataset
 Wrangle, prepare and cleanse the data
 Analyze, identify patterns, and explore the data
 Visualize, report, and present the problem-solving steps and final solution
+
+
+# Boston Crime Analysis
+
+![Crime Analysis](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+Welcome to the **Boston Crime Analysis** repository! This project is dedicated to analyzing crime data in Boston to uncover patterns, trends, and insights that can help improve public safety and awareness.
+
+## 📚 About This Project
+
+This repository contains my analysis of crime data in Boston, utilizing various data science techniques to explore and visualize crime patterns. The goal is to gain a better understanding of crime dynamics in the city and provide actionable insights.
+
+## ✨ Key Features
+
+- **Data Exploration**: Comprehensive exploratory data analysis (EDA) to understand the dataset and its features.
+- **Visualization**: Interactive and static visualizations using Python libraries and Tableau to present crime patterns effectively.
+- **Time Series Analysis**: Analysis of crime trends over time, including the impact of significant events like the COVID-19 pandemic.
+- **Geospatial Analysis**: Mapping crime incidents to identify hotspots and spatial patterns.
+
+## 🚀 Getting Started
+
+To get started, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/Rohitsunnyy/Boston-Crime-Analysis-.git
+cd Boston-Crime-Analysis-
