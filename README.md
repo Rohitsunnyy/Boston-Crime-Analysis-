@@ -20,7 +20,7 @@ Visualize, report, and present the problem-solving steps and final solution
 
 # Boston Crime Analysis
 
-![Crime Analysis]([https://media.giphy.com/media/26uf6qaxqHpYXgjWU/giphy.gif](https://www.detectiveanalytics.com/))
+![Crime Analysis](https://media.giphy.com/media/26uf6qaxqHpYXgjWU/giphy.gif)
 
 Welcome to my **Boston Crime Analysis** repository! This project is dedicated to analyzing crime data in Boston to uncover patterns, trends, and insights that can help improve public safety and awareness.
 
