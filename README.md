@@ -85,7 +85,7 @@ This is a personal project, but if you have any suggestions or find any issues, 
 
 ## 📬 Contact
 
-For any questions, feel free to reach out to me at [gaddamsreeramulu.r@northeastern.edu](mailto:gaddamsreeramulu.r@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/rohit-kumar).
+For any questions, feel free to reach out to me at [gaddamsreeramulu.r@northeastern.edu](mailto:gaddamsreeramulu.r@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/grohitkumar/).
 
 ---
 
