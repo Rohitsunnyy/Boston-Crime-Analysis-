@@ -56,7 +56,7 @@ This repository contains my analysis of crime data in Boston, utilizing various 
 
 ## 📊 Visualizations
 
-![Data Visualization](https://media.giphy.com/media/l0HlN7z8p23MLrrTy/giphy.gif)
+![Data Visualization](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 
 Explore the visualizations created during the analysis:
 
