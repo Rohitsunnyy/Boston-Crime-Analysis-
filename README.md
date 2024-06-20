@@ -20,7 +20,7 @@ Visualize, report, and present the problem-solving steps and final solution
 
 # Boston Crime Analysis
 
-![Crime Analysis](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Crime Analysis](https://media.giphy.com/media/26uf6qaxqHpYXgjWU/giphy.gif)
 
 Welcome to my **Boston Crime Analysis** repository! This project is dedicated to analyzing crime data in Boston to uncover patterns, trends, and insights that can help improve public safety and awareness.
 
@@ -37,7 +37,7 @@ This repository contains my analysis of crime data in Boston, utilizing various 
 
 ## 🕵️‍♂️ Analysis and Insights
 
-![Detective](https://media.giphy.com/media/3o6ZtbD4WvQ72sfFkk/giphy.gif)
+![Detective](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### Exploratory Data Analysis (EDA)
 
@@ -56,7 +56,7 @@ This repository contains my analysis of crime data in Boston, utilizing various 
 
 ## 📊 Visualizations
 
-![Data Visualization](https://media.giphy.com/media/l0HlyLN0EXi4SaTl2/giphy.gif)
+![Data Visualization](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 Explore the visualizations created during the analysis:
 
@@ -91,4 +91,4 @@ For any questions, feel free to reach out to me at [gaddamsreeramulu.r@northeast
 
 Happy Analyzing! 🌟
 
-![Learning](https://media.giphy.com/media/26tPoyDhjiJ2g7tL6/giphy.gif)
+![Learning](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
